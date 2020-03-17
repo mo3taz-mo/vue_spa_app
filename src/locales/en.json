@@ -1,0 +1,29 @@
+{
+  "Common": {
+    "Welcome": "Welcome to VueJS App",
+    "Login": "Login",
+    "UserName": "User Name",
+    "Password": "Password",
+    "Required": "Required",
+    "En": "English",
+    "Ar": "Arabic",
+    "invoiceNo": "Invoice No.",
+    "invoiceDate": "Invoice Date",
+    "dueDate": "Due Date",
+    "paymentTerms": "payment Terms",
+    "customerName": "Customer Name",
+    "customerAddress": "Address",
+    "customerCountry": "Country",
+    "Notes": "Notes",
+    "productName": "Product Name",
+    "qunatity": "Quantity",
+    "uom": "Unit Of Measure",
+    "price": "price",
+    "tax": "Tax",
+    "amount": "Amount",
+    "Save": "Save",
+    "NewInvoice": "New Invoice",
+    "InvoiceList": "Invoice List",
+    "Dashboard": "Dashboard"
+  }
+}

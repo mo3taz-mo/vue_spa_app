@@ -1,0 +1,29 @@
+{
+  "Common": {
+    "Welcome": "اهلا بك فى تطبيق فيو",
+    "Login": "تسجيل الدخول",
+    "UserName": "اسم المستخدم",
+    "Password": "كلمة السر",
+    "Required": "مطلوب",
+    "En": "الانجليزية",
+    "Ar": "العربية",
+    "invoiceNo": "رقم الفاتورة",
+    "invoiceDate": "تايخ الفاتورة",
+    "dueDate": "تاريخ الاستحقاق",
+    "paymentTerms": "شروط السداد",
+    "customerName": "اسم العميل",
+    "customerAddress": "العنوان",
+    "customerCountry": "الدولة",
+    "Notes": "ملاحظات",
+    "productName": "اسم المنتج",
+    "qunatity": "الكيمة",
+    "uom": "وحدة القياس",
+    "price": "السعر",
+    "tax": "الضريبة",
+    "amount": "المبلغ",
+    "Save": "حفظ",
+    "NewInvoice": "فاتورة جديدة",
+    "InvoiceList": "قائمة الفواتير",
+    "Dashboard": "الرئيسية"
+  }
+}

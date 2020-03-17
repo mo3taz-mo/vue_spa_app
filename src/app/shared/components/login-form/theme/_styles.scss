@@ -1,0 +1,24 @@
+﻿
+.login-content {
+    color: #000;
+    .login-h2,
+    .login-p {
+        margin: 0px;
+        text-align: start;
+        direction: #{$direction};
+    }
+    label {
+        font-size: 14px;
+        float: #{$start-direction};
+    }
+    .submit-btn {
+        height: 38px;
+    }
+    .row {
+        height: 100vh;
+    }
+    input {
+        text-align: start;
+        direction: #{$direction};
+    }
+}

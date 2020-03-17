@@ -1,0 +1,16 @@
+h2  {
+    direction: #{$direction};
+    text-align: #{$start-direction};
+}
+label {
+
+    font-size: 14px;
+    float: #{$start-direction};
+}
+.btn.btn-primary {
+    float: #{$start-direction};
+}
+input {
+    text-align: start;
+    direction: #{$direction};
+}
